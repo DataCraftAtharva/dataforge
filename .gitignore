@@ -1,0 +1,5 @@
+Data Engineering/.venv/
+__pycache__/
+*.pyc
+.idea/
+
